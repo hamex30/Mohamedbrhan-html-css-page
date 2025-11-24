@@ -1,0 +1,22 @@
+body {
+  font-family:sans-serif;
+}
+
+h1 {
+  color:red;
+}
+.center-image{
+  display: block;
+  margin: auto;
+  width: 200px;
+}
+
+p {
+  text-align: justify;
+}
+.left-image{
+  width: 500px;
+}
+.right-image{
+  width: 470px;
+}
